@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code for an image caption generator using deep learning models based on LSTM and CNN architectures. The model is trained on [Dataset Name], which can be accessed [here](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip).
+This repository contains code for an image caption generator using deep learning models based on LSTM and CNN architectures. The model is trained on Flickr8k dataset, which can be accessed [here](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip).
 
 ## Model Summary
 
@@ -17,7 +17,7 @@ The image caption generator model architecture consists of a combination of Conv
 - `training_caption.ipynb`: IPython Notebook containing the complete code for the image caption generator.
 - `features.p`: Pickle file containing precomputed image features.
 - `tokenizer.p`: Pickle file containing tokenizer object for text preprocessing.
-- `model/model.keras`: Keras model file containing the trained image caption generator model.
+- `models/model.keras`: Keras model file containing the trained image caption generator model.
 
 ## Workflow
 
