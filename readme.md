@@ -6,7 +6,7 @@ This repository contains code for an image caption generator using deep learning
 
 ## Model Summary
 
-![Model Summary](images/model.png)
+![Model Summary](images/model_summary.png)
 
 ### Model Architecture
 
